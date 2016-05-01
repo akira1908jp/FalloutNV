@@ -25,4 +25,4 @@ Renderer Device Information:
 	Multisample Type   		: 4
 	Transparency MS    		: yes
 	Shader Package     		: 13
-	HW Thread Count    		: 8
+	HW Thread Count    		: 2
